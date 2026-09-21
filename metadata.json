@@ -1,0 +1,6 @@
+{
+  "name": "Dedo Mágico - Mini Aplicativo Interativo",
+  "description": "Landing page de alta conversão para o mini aplicativo interativo Dedo Mágico, reprogramando padrões emocionais inconscientes nos relacionamentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
